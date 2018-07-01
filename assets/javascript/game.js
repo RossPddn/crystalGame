@@ -29,7 +29,7 @@ $('#buttonTwo').data('num', crystalTwoRndm);
 $('#buttonThree').data('num', crystalThreeRndm); 
 $('#buttonFour').data('num', crystalFourRndm); 
 
-$('#randomNum').text(randChoice);
+$('#randomNum').text(randChoice).css({"color": "white", "font-weight": "bold", "font-size":"2em"});
 
 
 }
