@@ -1,0 +1,38 @@
+body{
+  
+    background-image:url('../images/Ww.jpg');
+    background-size:cover;
+}
+h2{
+    color:white;
+    font-weight:bold;
+    font-family: 'Fira Mono', 'Oxygen Mono','Overpass Mono', monospace;
+
+
+}
+h5{
+    color:white;
+    font-size:2em;
+    font-family: 'Overpass Mono', 'Fira Mono', 'Oxygen Mono', monospace;
+  
+
+}
+#randomNum, #stats, #score{
+    height:30vh;
+    border-style:solid;
+    border-color:white;
+    background-color:rgba(63, 207, 207, 0.287);
+
+}
+.test{
+    background-color:black;
+    border-radius:15%;
+}
+.img{
+
+    border-radius:10%;
+}
+.img:hover{
+    opacity:.8;
+
+}
